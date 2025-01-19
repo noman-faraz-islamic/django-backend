@@ -1,0 +1,5 @@
+myvenv/
+IslamicBackend/IslamicBackend/.env
+IslamicBackend/api/__pycache__/
+IslamicBackend/api/migrations/__pycache__/
+IslamicBackend/IslamicBackend/__pycache__/
